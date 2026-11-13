@@ -11,7 +11,7 @@
 
 This document explains every step in order and expands every acronym to its full form on first use.
 ---
-![Architecture-Image](arch.png)
+![Architecture-Image](Arch.png)
 ---
 
 ## 1. Acronym Glossary (Full Forms)
